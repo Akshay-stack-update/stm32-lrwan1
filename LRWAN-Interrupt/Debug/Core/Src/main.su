@@ -1,0 +1,14 @@
+main.c:175:5:main	16	static,ignoring_inline_asm
+main.c:243:6:LoraMacProcessNotify	8	static
+main.c:249:13:LORA_HasJoined	8	static
+main.c:257:13:Send	72	static
+main.c:382:13:LORA_RxData	16	static
+main.c:453:13:OnTxTimerEvent	16	static
+main.c:461:13:LoraStartTx	48	static
+main.c:484:13:LORA_ConfirmClass	16	static
+main.c:496:13:LORA_TxNeeded	8	static
+main.c:509:9:LORA_GetBatteryLevel	24	static
+main.c:533:6:SensorINT	32	static
+main.c:544:6:InterruptTest	8	static
+main.c:555:13:AnalogRead	8	static
+main.c:572:13:OnTimerLedEvent	16	static
